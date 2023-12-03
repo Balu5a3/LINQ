@@ -1,0 +1,6 @@
+D:\VS2034\LINQ\LINQ\bin\Debug\LINQ.exe.config
+D:\VS2034\LINQ\LINQ\bin\Debug\LINQ.exe
+D:\VS2034\LINQ\LINQ\bin\Debug\LINQ.pdb
+D:\VS2034\LINQ\LINQ\obj\Debug\LINQ.exe
+D:\VS2034\LINQ\LINQ\obj\Debug\LINQ.pdb
+D:\VS2034\LINQ\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
